@@ -1,0 +1,14 @@
+C:\Documents and Settings\mbreit.GERMANY\My Documents\NETMF Projects\Software\TATER\v0.5.1.0\v0.5.1.0\TATER\SOUP\bin\Debug\SOUP.exe
+C:\Documents and Settings\mbreit.GERMANY\My Documents\NETMF Projects\Software\TATER\v0.5.1.0\v0.5.1.0\TATER\SOUP\bin\Debug\SOUP.pdb
+C:\Documents and Settings\mbreit.GERMANY\My Documents\NETMF Projects\Software\TATER\v0.5.1.0\v0.5.1.0\TATER\SOUP\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\mbreit.GERMANY\My Documents\NETMF Projects\Software\TATER\v0.5.1.0\v0.5.1.0\TATER\SOUP\obj\Debug\SOUP.AboutBox1.resources
+C:\Documents and Settings\mbreit.GERMANY\My Documents\NETMF Projects\Software\TATER\v0.5.1.0\v0.5.1.0\TATER\SOUP\obj\Debug\SOUP.SOUP.resources
+C:\Documents and Settings\mbreit.GERMANY\My Documents\NETMF Projects\Software\TATER\v0.5.1.0\v0.5.1.0\TATER\SOUP\obj\Debug\SOUP.Properties.Resources.resources
+C:\Documents and Settings\mbreit.GERMANY\My Documents\NETMF Projects\Software\TATER\v0.5.1.0\v0.5.1.0\TATER\SOUP\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\mbreit.GERMANY\My Documents\NETMF Projects\Software\TATER\v0.5.1.0\v0.5.1.0\TATER\SOUP\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\mbreit.GERMANY\My Documents\NETMF Projects\Software\TATER\v0.5.1.0\v0.5.1.0\TATER\SOUP\obj\Debug\SOUP.exe
+C:\Documents and Settings\mbreit.GERMANY\My Documents\NETMF Projects\Software\TATER\v0.5.1.0\v0.5.1.0\TATER\SOUP\obj\Debug\SOUP.pdb
+C:\Documents and Settings\mbreit.GERMANY\Desktop\Robot\SOUP\obj\Debug\SOUP.exe
+C:\Documents and Settings\mbreit.GERMANY\Desktop\Robot\SOUP\obj\Debug\SOUP.pdb
+C:\Documents and Settings\mbreit.GERMANY\My Documents\NETMF Projects\Software\TATER\Robot\SOUP\obj\Debug\SOUP.exe
+C:\Documents and Settings\mbreit.GERMANY\My Documents\NETMF Projects\Software\TATER\Robot\SOUP\obj\Debug\SOUP.pdb

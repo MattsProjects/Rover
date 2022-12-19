@@ -1,0 +1,59 @@
+C:\Documents and Settings\mbreit.GERMANY\My Documents\NETMF Projects\Software\TATER\v0.5.1.0\v0.5.1.0\TATER\TATER\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\mbreit.GERMANY\My Documents\NETMF Projects\Software\TATER\v0.5.1.0\v0.5.1.0\TATER\TATER\obj\Debug\TinyCLR_DebugReferences.cache
+C:\Documents and Settings\mbreit.GERMANY\My Documents\NETMF Projects\Software\TATER\v0.5.1.0\v0.5.1.0\TATER\TATER\obj\Debug\TATER.Resources.resources
+C:\Documents and Settings\mbreit.GERMANY\My Documents\NETMF Projects\Software\TATER\v0.5.1.0\v0.5.1.0\TATER\TATER\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\mbreit.GERMANY\My Documents\NETMF Projects\Software\TATER\v0.5.1.0\v0.5.1.0\TATER\TATER\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\mbreit.GERMANY\My Documents\NETMF Projects\Software\TATER\v0.5.1.0\v0.5.1.0\TATER\TATER\obj\Debug\TATER.Resources.tinyresources
+C:\Documents and Settings\mbreit.GERMANY\My Documents\NETMF Projects\Software\TATER\v0.5.1.0\v0.5.1.0\TATER\TATER\obj\Debug\TinyResGen.cache
+C:\Documents and Settings\mbreit.GERMANY\Desktop\Robot\TATER\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\mbreit.GERMANY\Desktop\Robot\TATER\obj\Debug\TinyCLR_DebugReferences.cache
+C:\Documents and Settings\mbreit.GERMANY\Desktop\Robot\TATER\obj\Debug\TATER.Resources.resources
+C:\Documents and Settings\mbreit.GERMANY\Desktop\Robot\TATER\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\mbreit.GERMANY\Desktop\Robot\TATER\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\mbreit.GERMANY\Desktop\Robot\TATER\obj\Debug\TATER.Resources.tinyresources
+C:\Documents and Settings\mbreit.GERMANY\Desktop\Robot\TATER\obj\Debug\TinyResGen.cache
+C:\Documents and Settings\mbreit.GERMANY\Desktop\Robot\TATER\bin\Debug\le\TATER.exe
+C:\Documents and Settings\mbreit.GERMANY\Desktop\Robot\TATER\bin\Debug\be\TATER.exe
+C:\Documents and Settings\mbreit.GERMANY\Desktop\Robot\TATER\bin\Debug\le\TATER.pdb
+C:\Documents and Settings\mbreit.GERMANY\Desktop\Robot\TATER\bin\Debug\be\TATER.pdb
+C:\Documents and Settings\mbreit.GERMANY\Desktop\Robot\TATER\bin\Debug\TATER.exe
+C:\Documents and Settings\mbreit.GERMANY\Desktop\Robot\TATER\bin\Debug\TATER.pdb
+C:\Documents and Settings\mbreit.GERMANY\Desktop\Robot\TATER\bin\Debug\le\TATER.pe
+C:\Documents and Settings\mbreit.GERMANY\Desktop\Robot\TATER\bin\Debug\le\TATER.pdbx
+C:\Documents and Settings\mbreit.GERMANY\Desktop\Robot\TATER\bin\Debug\be\TATER.pe
+C:\Documents and Settings\mbreit.GERMANY\Desktop\Robot\TATER\bin\Debug\be\TATER.pdbx
+C:\Documents and Settings\mbreit.GERMANY\Desktop\Robot\TATER\bin\Debug\LE\FEZDomino_GHIElectronics.NETMF.FEZ.pe
+C:\Documents and Settings\mbreit.GERMANY\Desktop\Robot\TATER\bin\Debug\LE\GHIElectronics.NETMF.Hardware.pe
+C:\Documents and Settings\mbreit.GERMANY\Desktop\Robot\TATER\bin\Debug\LE\GHIElectronics.NETMF.Hardware.USBizi.pe
+C:\Documents and Settings\mbreit.GERMANY\Desktop\Robot\TATER\bin\Debug\LE\GHIElectronics.NETMF.IO.pe
+C:\Documents and Settings\mbreit.GERMANY\Desktop\Robot\TATER\bin\Debug\LE\GHIElectronics.NETMF.System.pe
+C:\Documents and Settings\mbreit.GERMANY\Desktop\Robot\TATER\bin\Debug\BE\FEZDomino_GHIElectronics.NETMF.FEZ.pe
+C:\Documents and Settings\mbreit.GERMANY\Desktop\Robot\TATER\bin\Debug\BE\GHIElectronics.NETMF.Hardware.pe
+C:\Documents and Settings\mbreit.GERMANY\Desktop\Robot\TATER\bin\Debug\BE\GHIElectronics.NETMF.Hardware.USBizi.pe
+C:\Documents and Settings\mbreit.GERMANY\Desktop\Robot\TATER\bin\Debug\BE\GHIElectronics.NETMF.IO.pe
+C:\Documents and Settings\mbreit.GERMANY\Desktop\Robot\TATER\bin\Debug\BE\GHIElectronics.NETMF.System.pe
+C:\Documents and Settings\mbreit.GERMANY\Desktop\Robot\TATER\bin\Debug\LE\FEZDomino_GHIElectronics.NETMF.FEZ.pdbx
+C:\Documents and Settings\mbreit.GERMANY\Desktop\Robot\TATER\bin\Debug\LE\GHIElectronics.NETMF.Hardware.pdbx
+C:\Documents and Settings\mbreit.GERMANY\Desktop\Robot\TATER\bin\Debug\LE\GHIElectronics.NETMF.Hardware.USBizi.pdbx
+C:\Documents and Settings\mbreit.GERMANY\Desktop\Robot\TATER\bin\Debug\LE\GHIElectronics.NETMF.IO.pdbx
+C:\Documents and Settings\mbreit.GERMANY\Desktop\Robot\TATER\bin\Debug\LE\GHIElectronics.NETMF.System.pdbx
+C:\Documents and Settings\mbreit.GERMANY\Desktop\Robot\TATER\bin\Debug\BE\FEZDomino_GHIElectronics.NETMF.FEZ.pdbx
+C:\Documents and Settings\mbreit.GERMANY\Desktop\Robot\TATER\bin\Debug\BE\GHIElectronics.NETMF.Hardware.pdbx
+C:\Documents and Settings\mbreit.GERMANY\Desktop\Robot\TATER\bin\Debug\BE\GHIElectronics.NETMF.Hardware.USBizi.pdbx
+C:\Documents and Settings\mbreit.GERMANY\Desktop\Robot\TATER\bin\Debug\BE\GHIElectronics.NETMF.IO.pdbx
+C:\Documents and Settings\mbreit.GERMANY\Desktop\Robot\TATER\bin\Debug\BE\GHIElectronics.NETMF.System.pdbx
+C:\Documents and Settings\mbreit.GERMANY\Desktop\Robot\TATER\bin\Debug\FEZDomino_GHIElectronics.NETMF.FEZ.dll
+C:\Documents and Settings\mbreit.GERMANY\Desktop\Robot\TATER\bin\Debug\GHIElectronics.NETMF.Hardware.dll
+C:\Documents and Settings\mbreit.GERMANY\Desktop\Robot\TATER\bin\Debug\GHIElectronics.NETMF.Hardware.USBizi.dll
+C:\Documents and Settings\mbreit.GERMANY\Desktop\Robot\TATER\bin\Debug\GHIElectronics.NETMF.IO.dll
+C:\Documents and Settings\mbreit.GERMANY\Desktop\Robot\TATER\bin\Debug\GHIElectronics.NETMF.System.dll
+C:\Documents and Settings\mbreit.GERMANY\Desktop\Robot\TATER\bin\Debug\GHIElectronics.NETMF.Hardware.xml
+C:\Documents and Settings\mbreit.GERMANY\Desktop\Robot\TATER\bin\Debug\GHIElectronics.NETMF.Hardware.USBizi.xml
+C:\Documents and Settings\mbreit.GERMANY\Desktop\Robot\TATER\bin\Debug\GHIElectronics.NETMF.IO.xml
+C:\Documents and Settings\mbreit.GERMANY\Desktop\Robot\TATER\bin\Debug\GHIElectronics.NETMF.System.xml
+C:\Documents and Settings\mbreit.GERMANY\Desktop\Robot\TATER\obj\Debug\be\TATER.pe
+C:\Documents and Settings\mbreit.GERMANY\Desktop\Robot\TATER\obj\Debug\be\TATER.pdbx
+C:\Documents and Settings\mbreit.GERMANY\Desktop\Robot\TATER\obj\Debug\le\TATER.pe
+C:\Documents and Settings\mbreit.GERMANY\Desktop\Robot\TATER\obj\Debug\le\TATER.pdbx
+C:\Documents and Settings\mbreit.GERMANY\Desktop\Robot\TATER\obj\Debug\TATER.exe
+C:\Documents and Settings\mbreit.GERMANY\Desktop\Robot\TATER\obj\Debug\TATER.pdb
